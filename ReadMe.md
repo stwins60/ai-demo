@@ -13,7 +13,7 @@ This project is a web application that provides AI-powered product suggestions b
 - Python 3.8+
 - MySQL Database
 - `.env` file with the following variables:
-  - `GROQ_API_KEY`: Your Groq API key.
+  - `GROQ_API_KEY`: Your Groq API key. Sign up for an account at [Groq](https://groq.com/) to obtain an API key.
   - `DB_HOST`: MySQL database host.
   - `DB_USER`: MySQL username.
   - `DB_PASSWORD`: MySQL password.
