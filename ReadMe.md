@@ -40,7 +40,7 @@ This project is a web application that provides AI-powered product suggestions b
 
 1. Start the Streamlit application:
    ```bash
-   streamlit run app.py
+   streamlit run main.py
    ```
 
 2. Open the application in your browser (usually `http://localhost:8501`).
